@@ -27,13 +27,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnolo
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ralfzinho&show_icons=true&theme=radical)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ralfzinho&layout=compact&theme=radical)
 ---
 
 🌟 **Vamos nos conectar!**  
