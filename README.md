@@ -16,10 +16,24 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnolo
 
 ## 💡 Meus Objetivos
 
-- 🔍 **Explorar novas tecnologias** e práticas recomendadas em desenvolvimento.
-- 🚀 **Desenvolver projetos** que integrem minhas novas habilidades.
-- 📈 **Aprimorar habilidades** para crescer profissionalmente na área de tecnologia.
+## 🎯 Tech Stack
 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=radical)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsername&layout=compact&theme=radical)
 ---
 
 🌟 **Vamos nos conectar!**  
